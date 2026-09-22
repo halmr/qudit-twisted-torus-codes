@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "qudit-twisted-torus-codes"
+authors:
+  - family-names: Halla
+    given-names: Mourad
+license: MIT
+repository-code: "https://github.com/halmr/qudit-twisted-torus-codes"
+preferred-citation:
+  type: article
+  title: "Qudit Twisted-Torus Codes in the Bivariate Bicycle Framework"
+  authors:
+    - family-names: Halla
+      given-names: Mourad
+  year: 2026
+  journal: "arXiv preprint"
+  url: "https://arxiv.org/abs/2602.04443"
